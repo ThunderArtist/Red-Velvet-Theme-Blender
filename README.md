@@ -22,3 +22,4 @@ The font in the preview images is `Chakra Petch`. If you want to use it it's sim
 ## This theme was inspired by
 - [Alien Pink Blender Theme](https://github.com/Alumx/Alien-Pink-Blender-theme) by [Alumx](https://github.com/Alumx)
 - Rebecca's color palette from Cyberpunk Edgerunners.
+- The Cyberpunk 2077 UI.
