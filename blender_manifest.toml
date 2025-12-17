@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "red_velvet_theme"
+version = "1.0.0"
+name = "Red Velvet Theme"
+tagline = "A cosmic red cyberpunk-inspired theme"
+maintainer = "ThunderArtist"
+type = "theme"
+website = "https://github.com/ThunderArtist/Red-Velvet-Theme-Blender"
+tags = ["Dark", "Colorful", "Inspired By"]
+blender_version_min = "5.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
