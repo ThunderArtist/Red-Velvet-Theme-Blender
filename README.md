@@ -9,7 +9,7 @@ A cosmic red cyberpunk-inspired theme
 Minimum Blender version required (5.0.0)
 
 ## Easy Install
-1. Go to [Blender Extensions Website](https://extensions.blender.org/themes/red-velvet-theme)
+1. Get it from the [Blender Extensions Page](https://extensions.blender.org/themes/red-velvet-theme).
 2. Press "Get Theme" and proceed.
 
 ## Manual Install
